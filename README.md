@@ -45,7 +45,7 @@ let color = ColoredTemperature().getTemperatureColor(temperature)
 
 The color constant will contain the appropriate color based on the temperature value.
 
-##Supported Platforms
+## Supported Platforms
 
 - iOS 15.0 and above
 - macOS 12.0 and above
